@@ -8,7 +8,7 @@ total = 0
 
 #While statement makes sure both numbers are less than 4000000
 #If they are, add num1 and num2 to num1
-#Then if num1 is divisible by 2 add num1 into total
+#Then if Num1 is divisible by 2 add Num1 into total
 #Repeat this for num2
 while num1 < 4000000 and num2 < 4000000:
     num1 = num1 + num2
